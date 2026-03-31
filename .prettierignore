@@ -3,3 +3,8 @@ astro.config.mjs
 pnpm-lock.yaml
 package.json
 tsconfig.json
+node_modules
+.vscode/
+.wrangler/
+dist/
+.astro/
