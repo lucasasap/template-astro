@@ -1,5 +1,5 @@
 {
-  "name": "lp-psicologa",
+  "name": "template-astro",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,11 +11,11 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^12.6.12",
-    "@tailwindcss/vite": "^4.1.18",
-    "astro": "^5.17.1",
-    "tailwindcss": "^4.1.18",
-    "wrangler": "^4.65.0"
+    "@astrojs/cloudflare": "^13.1.6",
+    "@tailwindcss/vite": "^4.2.2",
+    "astro": "^6.1.2",
+    "tailwindcss": "^4.2.2",
+    "wrangler": "^4.79.0"
   },
   "devDependencies": {
     "prettier": "3.8.1",
